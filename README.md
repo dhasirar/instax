@@ -24,7 +24,7 @@ git clone https://github.com/dhasirar/instax.git
 cd instax
 chmod +x instax.sh
 service tor start
-sudo ./instax.sh
+bash instax.sh
 ```
 
 ### Install requirements (Curl, Tor, Openssl):
