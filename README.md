@@ -35,8 +35,7 @@ sudo ./install.sh
 ```
 
 ### How it works?
-
-Script uses an Android ApkSignature to perform authentication in addition using TOR and rotating the ip address to avoid blocking. 
+Tool uses TOR and rotating the ip address to avoid blocking. 
 
 ### Donate!
 Support the authors:
