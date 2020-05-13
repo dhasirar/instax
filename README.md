@@ -7,7 +7,7 @@ Instax is an Script to perform multi-threaded brute force attack against Instagr
 ## Legal disclaimer:
 Usage of Instax for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![insta](https://user-images.githubusercontent.com/34893261/37858917-a6f23ae2-2eea-11e8-9f58-9a688390cfb0.png)
+![insta](https://user-images.githubusercontent.com/50268203/81771981-8f732900-94b2-11ea-817a-51d52e6e16ca.png)
 
 ### Features
 - Multi-thread (400 pass/min, 20 threads)
