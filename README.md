@@ -31,7 +31,7 @@ bash instax.sh
 
 ```
 chmod +x install.sh
-sudo ./install.sh
+bash install.sh
 ```
 
 ### How it works?
