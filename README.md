@@ -40,3 +40,4 @@ Tool uses TOR and rotating the ip address to avoid blocking.
 ### Donate!
 Support the authors:
 https://paypal.me/dhasirar
+[![Run on Repl.it](https://repl.it/badge/github/dhasirar/instax)](https://repl.it/github/dhasirar/instax)
