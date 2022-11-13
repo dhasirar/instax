@@ -210,6 +210,6 @@ exit 1
 }
 
 case "$1" in --resume) resume ;; *)
-start
+star
 bruteforcer
 esac
